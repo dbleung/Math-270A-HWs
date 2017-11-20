@@ -1,0 +1,93 @@
+
+
+XXXX Problem A XXXX 
+
+M :  10
+Residual error (Inf Norm) : 1.13686837722e-13
+Solution error (Inf Norm) : 8.881784197e-16
+
+Residual error (L2  Norm) : 5.39264020773e-14
+Solution error (L2  Norm) : 5.91656172698e-16
+
+
+M :  20
+Residual error (Inf Norm) : 3.41060513165e-13
+Solution error (Inf Norm) : 6.66133814775e-16
+
+Residual error (L2  Norm) : 1.76122891672e-13
+Solution error (L2  Norm) : 4.06408356251e-16
+
+
+M :  40
+Residual error (Inf Norm) : 1.81898940355e-12
+Solution error (Inf Norm) : 5.55111512313e-15
+
+Residual error (L2  Norm) : 8.65813161211e-13
+Solution error (L2  Norm) : 3.69805940313e-15
+
+
+
+Rate of convergence [10, 20]  : 0.541828964523
+Rate of convergence [20, 40]  : -3.18576642831
+
+
+XXXX Problem B XXXX 
+
+M :  10
+Residual error (Inf Norm) : 5.55111512313e-16
+Solution error (Inf Norm) : 0.000850043976915
+
+Residual error (L2  Norm) : 2.9790409839e-16
+Solution error (L2  Norm) : 0.000520543500592
+
+
+M :  20
+Residual error (Inf Norm) : 1.88737914186e-15
+Solution error (Inf Norm) : 0.000209365457579
+
+Residual error (L2  Norm) : 1.07691022178e-15
+Solution error (L2  Norm) : 0.000128209635208
+
+
+M :  40
+Residual error (Inf Norm) : 1.40998324127e-14
+Solution error (Inf Norm) : 5.21476515388e-05
+
+Residual error (L2  Norm) : 5.92520543863e-15
+Solution error (L2  Norm) : 3.19337843886e-05
+
+
+
+Rate of convergence [10, 20]  : 2.02151404376
+Rate of convergence [20, 40]  : 2.00534924928
+
+
+XXXX Problem C XXXX 
+
+M :  10
+Residual error (Inf Norm) : 5.55111512313e-16
+Solution error (Inf Norm) : 0.000803966977814
+
+Residual error (L2  Norm) : 2.91631730688e-16
+Solution error (L2  Norm) : 0.000489927900881
+
+
+M :  20
+Residual error (Inf Norm) : 2.55351295664e-15
+Solution error (Inf Norm) : 0.000198077546419
+
+Residual error (L2  Norm) : 1.15683271468e-15
+Solution error (L2  Norm) : 0.000120706574288
+
+
+M :  40
+Residual error (Inf Norm) : 1.40998324127e-14
+Solution error (Inf Norm) : 4.93398352923e-05
+
+Residual error (L2  Norm) : 4.70659331207e-15
+Solution error (L2  Norm) : 3.00672255671e-05
+
+
+
+Rate of convergence [10, 20]  : 2.02106519926
+Rate of convergence [20, 40]  : 2.00524059921
